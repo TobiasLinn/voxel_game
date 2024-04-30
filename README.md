@@ -1,4 +1,4 @@
 # voxel_game
-CPU-based Voxel Raycasting Demo using multithreading and SSE/AVX intrinsics
+Small CPU-based Voxel Raycasting Demo written in header-only C++ using Multithreading and SSE/AVX intrinsics for low-level optimization.
 
 ![screenshot](screenshot.png)
